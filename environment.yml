@@ -1,0 +1,19 @@
+name: geospatial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - ipykernel
+  - xarray
+  - matplotlib
+  - cartopy
+  - cmocean
+  - numpy
+  - netcdf4
+  - h5netcdf
+  - h5py
+  - pip
+  - pip:
+    # add pip-only packages here
+    # - some-pip-package
