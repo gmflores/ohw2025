@@ -2,6 +2,7 @@
 OceanHackWeek 2025 | Taller intermedio
 
 Guillermo Martínez Flores
+
 gmflores@ipn.mx
 
 Crear un ambiente con las bibliotecas a utilizar
