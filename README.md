@@ -15,6 +15,9 @@ gmflores@ipn.mx
 | datos_temporales.pdf | Informe generado con `nbconvert`|
 | environment.yml | Archivo para la instalación de librerías |
 | papermill | Directorio con el ejecicio de `papermill`|
+| - papermill_espacial.ipynb | Establece regiones |
+| - plantilla_espacial.ipynb | Template para la salida |
+| - output_*.pdf | Salidas de los informes en pdf |
 | data | Archivos `NetCDF`|
 | assets | Archivos complementarios (png) |
 |
