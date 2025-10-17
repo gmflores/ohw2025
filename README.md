@@ -1,6 +1,6 @@
 # ohw2025
 
-### OceanHackWeek 2025 | Taller intermedio
+### OceanHackWeek 2025 | Taller intermedio | 6-17 octubre
 Jupyter Notebooks de Python para el tratamiento de datos espaciales y temporales
 
 Guillermo Martínez Flores<br>
