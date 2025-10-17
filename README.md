@@ -17,10 +17,9 @@ gmflores@ipn.mx
 | papermill | Directorio con el ejecicio de `papermill`|
 | - papermill_espacial.ipynb | Establece regiones |
 | - plantilla_espacial.ipynb | Template para la salida |
-| - output_*.pdf | Salidas de los informes en pdf |
-| data | Archivos `NetCDF`|
-| assets | Archivos complementarios (png) |
-|
+| - output_*.pdf | Salidas de los informes en ´pdf´ |
+| data | Directorio con los archivos `NetCDF`|
+| assets | Directorio con archivos complementarios (`png`) |
 
 ### Crear un ambiente con las librerías a utilizar
 
